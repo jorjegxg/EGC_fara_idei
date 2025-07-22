@@ -23,7 +23,7 @@
 
 ## 🛠️ Requirements
 
-- Unity engine (version X.X.X or higher)
+- Unity engine 
 - Internet or LAN connection for multiplayer
 - Windows / macOS / Linux build support
 
@@ -32,4 +32,4 @@
 Clone the repo and open it in Unity:
 
 ```bash
-git clone https://github.com/your-username/infiltration-game.git
+git clone https://github.com/jorjegxg/EGC_fara_idei.git
